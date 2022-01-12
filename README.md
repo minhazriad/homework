@@ -1,2 +1,2 @@
 # homework
-homework
+https://minhazriad.github.io/homework/
